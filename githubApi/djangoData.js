@@ -192,7 +192,7 @@ var locationsObj = {
     },
     {
       "id": 20,
-      "name": "SAFEWAY - MORINVILLE",
+      "name": "SOBEYS - MORINVILLE",
       "address": "10003 100 St, Morinville, AB",
       "latLng": {
         "lat": "53.802100",
@@ -662,7 +662,7 @@ var locationsObj = {
     },
     {
       "id": 67,
-      "name": "SOBEY'S - BEAUMARIS",
+      "name": "SOBEYS - BEAUMARIS",
       "address": "15367 Castle Downs Road, Edmonton, AB",
       "latLng": {
         "lat": "53.615680",
@@ -782,7 +782,7 @@ var locationsObj = {
     },
     {
       "id": 79,
-      "name": "SOBEY'S - BEAUMONT",
+      "name": "SOBEYS - BEAUMONT",
       "address": "#100 5802 50th Street, Beaumont, AB",
       "latLng": {
         "lat": "53.360279",
@@ -792,7 +792,7 @@ var locationsObj = {
     },
     {
       "id": 80,
-      "name": "SOBEY'S - LEWIS ESTATES",
+      "name": "SOBEYS - LEWIS ESTATES",
       "address": "1030 Webber Greens Drive NW, Edmonton, AB",
       "latLng": {
         "lat": "53.524282",
@@ -802,7 +802,7 @@ var locationsObj = {
     },
     {
       "id": 81,
-      "name": "SOBEY'S - ST. ALBERT",
+      "name": "SOBEYS - ST. ALBERT",
       "address": "392 St. Albert Road, St. Albert, AB",
       "latLng": {
         "lat": "53.644309",
@@ -859,6 +859,156 @@ var locationsObj = {
         "lng": "-113.499755"
       },
       "place_id": "ChIJu9Kg1EsfoFMR_lGPUIQPBTA"
+    },
+    {
+      "id": 88,
+      "name": "BEN'S MEATS AND DELI",
+      "address": "15726 Stony Plain Rd, Edmonton, AB",
+      "latLng": {
+        "lat": "53.541592",
+        "lng": "-113.593452"
+      },
+      "place_id": "ChIJLVPgGQ8hoFMRiC6FJJT517M"
+    },
+    {
+      "id": 89,
+      "name": "H&W PRODUCE",
+      "address": "14083 Victoria Trail NW, Edmonton, AB",
+      "latLng": {
+        "lat": "53.604366",
+        "lng": "-113.383802"
+      },
+      "place_id": "ChIJ47iqsI48oFMR54NWBCf1pBs"
+    },
+    {
+      "id": 90,
+      "name": "POPOWICH MEAT COMPANY",
+      "address": "6853 170 St NW, Edmonton, AB",
+      "latLng": {
+        "lat": "53.503974",
+        "lng": "-113.613655"
+      },
+      "place_id": "ChIJH1tjepAhoFMR-BW8WgZTVHk"
+    },
+    {
+      "id": 91,
+      "name": "SAFEWAY - SOUTHCENTRE",
+      "address": "11011 Bonaventure Dr SE, Calgary, AB",
+      "latLng": {
+        "lat": "50.952716",
+        "lng": "-114.061701"
+      },
+      "place_id": "ChIJ4Y4FCM12cVMR7F6X_mxqmtA"
+    },
+    {
+      "id": 92,
+      "name": "SAFEWAY - CROWFOOT",
+      "address": "99 Crowfoot Crescent NW, Calgary, AB",
+      "latLng": {
+        "lat": "51.125889",
+        "lng": "-114.200868"
+      },
+      "place_id": "ChIJzREJhh9pcVMR4wIoZ5Gvyvk"
+    },
+    {
+      "id": 93,
+      "name": "SAFEWAY - MONTGOMERY",
+      "address": "5048 16 Ave NW, Calgary, AB",
+      "latLng": {
+        "lat": "51.075144",
+        "lng": "-114.166512"
+      },
+      "place_id": "ChIJfaMh8vpucVMRolbD0hvoZ5U"
+    },
+    {
+      "id": 94,
+      "name": "SAFEWAY - SHERWOOD PARK MALL",
+      "address": "2020 Sherwood Dr, Sherwood Park, AB",
+      "latLng": {
+        "lat": "53.531001",
+        "lng": "-113.293325"
+      },
+      "place_id": "ChIJce4ukTYWoFMRQ3QGTAGK60Q"
+    },
+    {
+      "id": 95,
+      "name": "SAFEWAY - SOUTH TRAIL CROSSING",
+      "address": "4915 130 Ave SE #100, Calgary, AB",
+      "latLng": {
+        "lat": "50.930311",
+        "lng": "-113.963571"
+      },
+      "place_id": "ChIJ25D9lYJ3cVMR4XQ6f3aZwrU"
+    },
+    {
+      "id": 96,
+      "name": "SOBEYS - BRIDLEWOOD",
+      "address": "2335 162 Ave SW #100, Calgary, AB",
+      "latLng": {
+        "lat": "50.905345",
+        "lng": "-114.113266"
+      },
+      "place_id": "ChIJh2loCEx0cVMRsZ_MvMgwdFk"
+    },
+    {
+      "id": 97,
+      "name": "SOBEYS - EVANSTON",
+      "address": "2060 Symons Valley Pkwy NW #7048, Calgary, AB",
+      "latLng": {
+        "lat": "51.175532",
+        "lng": "-114.109552"
+      },
+      "place_id": "ChIJVyQcbbRncVMROLp5j-1rf-k"
+    },
+    {
+      "id": 98,
+      "name": "SOBEYS - FOREST LAWN",
+      "address": "5101 17 Ave SE, Calgary, AB",
+      "latLng": {
+        "lat": "51.037245",
+        "lng": "-113.960881"
+      },
+      "place_id": "ChIJw8IpNBp7cVMR1LNfRoec1OE"
+    },
+    {
+      "id": 99,
+      "name": "SOBEYS - MCKENZIE TOWNE",
+      "address": "20 McKenzie Towne Ave SE, Calgary, AB",
+      "latLng": {
+        "lat": "50.917064",
+        "lng": "-113.959811"
+      },
+      "place_id": "ChIJE7dY6ZN3cVMR-510jH9d-9U"
+    },
+    {
+      "id": 100,
+      "name": "SOBEYS - MILLRISE PLAZA",
+      "address": "150 Millrise Blvd SW, Calgary, AB",
+      "latLng": {
+        "lat": "50.915313",
+        "lng": "-114.072181"
+      },
+      "place_id": "ChIJA0NHvYF2cVMRgmAqOib8e7I"
+    },
+    {
+      "id": 101,
+      "name": "SOBEYS - ROYAL OAK",
+      "address": "8888 Country Hills Blvd NW #125, Calgary, AB",
+      "latLng": {
+        "lat": "51.151667",
+        "lng": "-114.213056"
+      },
+      "place_id": "ChIJI5bsj1FocVMR9zl0AE1txlc"
+    },
+    {
+      "id": 102,
+      "name": "SOBEYS - HOLLICK KENYON",
+      "address": "5119 167 Ave NW, Edmonton, AB",
+      "latLng": {
+        "lat": "53.627238",
+        "lng": "-113.414434"
+      },
+      "place_id": "ChIJbfh5Nm87oFMRhYMNywRQ8BE"
     }
   ]
 };
