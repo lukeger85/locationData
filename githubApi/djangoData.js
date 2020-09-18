@@ -11,16 +11,6 @@ var locationsObj = {
       "place_id": "ChIJd8BwO1p26lIR3ani23xe8WE"
     },
     {
-      "id": 2,
-      "name": "K & K FOODLINER",
-      "address": "9944 82 Ave, Edmonton, AB",
-      "latLng": {
-        "lat": 53.518476,
-        "lng": -113.487648
-      },
-      "place_id": "ChIJbVZ_SQwioFMRtBLr2Vv-YS0"
-    },
-    {
       "id": 3,
       "name": "SAFEWAY - INGLEWOOD",
       "address": "395 St Albert Trail, St. Albert, AB",
