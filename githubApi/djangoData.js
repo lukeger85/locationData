@@ -1009,6 +1009,16 @@ var locationsObj = {
         "lng": -113.414434
       },
       "place_id": "ChIJbfh5Nm87oFMRhYMNywRQ8BE"
+    },
+    {
+      "id": 103,
+      "name": "MEATHEAD INC",
+      "address": "7664 156 St NW, Edmonton, AB",
+      "latLng": {
+        "lat": 53.509546,
+        "lng": -113.591281
+      },
+      "place_id": "ChIJl9Jp_6khoFMRe1hIEDb_cXY"
     }
   ]
 };
